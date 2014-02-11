@@ -22,8 +22,8 @@ Nimien sisältämät koodit tarkoittavat seuraavaa:
 `cmt` = "connectivity matrix", kytkeytyvyys metsätyyppien välillä  
 `ìnt` = "interaction connectivity", vuorovaikutuskytkeytyvyys lintukosteikoiden ja lintyesiintymien välillä  
 `hms` = "hierarchical mask", suolaikkujen suojellut osat "pakotettu sisään"  
-`plu` = "planning units", päätösykskiköt mukana
-`north/south` = MKV-jako etelä/pohjoinen
+`plu` = "planning units", päätösykskiköt mukana  
+`north/south` = MKV-jako etelä/pohjoinen  
 `admu` = "administrative units", hallinnolliset yksiköt  
 
 ## Kaikki variantit 
