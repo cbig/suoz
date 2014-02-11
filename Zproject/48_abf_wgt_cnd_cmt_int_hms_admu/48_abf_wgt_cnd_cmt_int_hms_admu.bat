@@ -1,0 +1,1 @@
+call zig3.exe -r 48_abf_wgt_cnd_cmt_int_hms_admu/48_abf_wgt_cnd_cmt_int_hms_admu.dat 48_abf_wgt_cnd_cmt_int_hms_admu/48_abf_wgt_cnd_cmt_int_hms_admu.spp output/48_abf_wgt_cnd_cmt_int_hms_admu/result_48_abf_wgt_cnd_cmt_int_hms_admu.txt 0 0 1 0 --grid-output-formats=compressed-img
