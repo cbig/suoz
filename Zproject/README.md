@@ -2,7 +2,29 @@
 
 _Tuotantoajot_ ovat variantteja, jotka lopulta ovat valikoituneet lopullisksi ajoiksi. Nämä ajot siis edustavat varsinaisia tuloksia. Variantit on selostettu tarkemmin alempana.
 
-`42_abf_extra_w_cond_cmat_birds_inter_hiermask_lsm`
+
+| ID | Variantti |
+|----|-----------|
+| 42  | 42_abf_wgt_cnd_cmt_int_hms |
+| 43  | 43_abf_wgt_cnd_cmt_int_hms_south |
+| 44  | 44_abf_wgt_cnd_cmt_int_hms_north |
+| 45  | 45_abf_wgt_cnd_cmt_int_hms_plu   |
+| 46  | 46_abf_wgt_cnd_cmt_int_hms_plu_south |
+| 47  | 47_abf_wgt_cnd_cmt_int_hms_plu_north |
+| 48  | 48_abf_wgt_cnd_cmt_int_hms_admu      |
+
+Nimien sisältämät koodit tarkoittavat seuraavaa:
+
+`42`  = ID-numero  
+`abf` = käytetty Z-metodi, voi olla caz (core area zonation) tai abf (additive benefit function)  
+`wgt` = painotukset käytössä  
+`cnd` = "condition", kuntopiirre käytössä (ojitus)  
+`cmt` = "connectivity matrix", kytkeytyvyys metsätyyppien välillä  
+`ìnt` = "interaction connectivity", vuorovaikutuskytkeytyvyys lintukosteikoiden ja lintyesiintymien välillä  
+`hms` = "hierarchical mask", suolaikkujen suojellut osat "pakotettu sisään"  
+`plu` = "planning units", päätösykskiköt mukana
+`north/south` = MKV-jako etelä/pohjoinen
+`admu` = "administrative units", hallinnolliset yksiköt  
 
 ## Kaikki variantit 
 
