@@ -1,0 +1,7 @@
+# S1(focal_feature) S2(connectivity_to) beta type gamma
+20 32 0.001 1 1 
+21 32 0.001 1 1
+24 32 0.001 1 1
+27 32 0.001 1 1
+29 32 0.001 1 1
+31 32 0.001 1 1

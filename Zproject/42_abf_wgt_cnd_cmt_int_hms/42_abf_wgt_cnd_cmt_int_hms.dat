@@ -1,0 +1,24 @@
+[Settings]
+removal rule = 2
+warp factor = 1000
+edge removal = 1
+annotate name = 0
+
+use mask = 1
+mask file = ../data/natura_maski_100.img
+
+use interactions = 1
+interaction file = interact_birds.txt
+
+use groups = 1
+groups file = 42_abf_wgt_cnd_cmt_int_hms/42_groups.txt
+use condition layer = 1
+condition file = condition_layers_list.txt
+
+post-processing list file = ppa_list_file.txt
+
+[Community analysis settings]
+load similarity matrix = 1
+connectivity similarity matrix file = connectivity_matrix.txt 
+apply to connectivity = 1
+apply to representation = 0
