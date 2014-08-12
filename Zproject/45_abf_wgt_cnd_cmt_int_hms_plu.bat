@@ -1,0 +1,1 @@
+call zig4.exe -r 45_abf_wgt_cnd_cmt_int_hms_plu/45_abf_wgt_cnd_cmt_int_hms_plu.dat 45_abf_wgt_cnd_cmt_int_hms_plu/45_abf_wgt_cnd_cmt_int_hms_plu.spp output/45_abf_wgt_cnd_cmt_int_hms_plu/result_45_abf_wgt_cnd_cmt_int_hms_plu.txt 0 0 1 0 --grid-output-formats=compressed-img
