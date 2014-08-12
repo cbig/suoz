@@ -6,13 +6,13 @@ add edge points = 0
 use SSI = 0
 SSI file name = 
 use planning unit layer = 1
-planning unit layer file = ../data/rasteri_100/Z4_100.img
+planning unit layer file = ../data/Z4_100.img
 initial removal percent = 0.0
 
 use cost = 0
 cost file = 
 use mask = 1
-mask file = ../data/rasteri_100/natura_maski_100.img
+mask file = ../data/natura_maski_100.img
 use boundary quality penalty = 0
 BQP profiles file = 
 BQP mode = 0
@@ -22,13 +22,13 @@ tree connectivity file =
 use interactions = 1
 interaction file = interact_birds.txt
 mask missing areas = 1
-area mask file = ../data/rasteri_100/mkv_pohjoinen_PLU_100.img
+area mask file = ../data/mkv_pohjoinen_PLU_100.img
 use groups = 1
-groups file = 47_20ha_abf_extra_w_cond_cmat_birds_inter_plu_mkv_pohjoinen_hiermask_lsm/47_groups.txt
+groups file = 47_abf_wgt_cnd_cmt_int_hms_plu_north/47_groups.txt
 use condition layer = 1
 condition file = condition_layers_list.txt
 memory save mode = 0
-post-processing list file = ppa_list_file_pohjoinen.txt
+post-processing list file = ppa_list_file_north.txt
 
 
 annotate name = 0
