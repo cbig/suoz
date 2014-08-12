@@ -28,7 +28,7 @@ groups file = 43_abf_wgt_cnd_cmt_int_hms_south/43_groups.txt
 use condition layer = 1
 condition file = condition_layers_list.txt
 memory save mode = 0
-post-processing list file = ppa_list_file_etela.txt
+post-processing list file = ppa_list_file_south.txt
 
 
 annotate name = 0
