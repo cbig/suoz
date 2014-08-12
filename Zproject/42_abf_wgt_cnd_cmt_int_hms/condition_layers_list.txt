@@ -1,0 +1,1 @@
+1 ..data/kunto_100.img
